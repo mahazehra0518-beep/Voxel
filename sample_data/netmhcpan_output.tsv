@@ -1,0 +1,11 @@
+Peptide	MHC	Affinity(nM)	%Rank	Vaxijen_Score	Toxicity	Allergenicity
+YLQPRTFLL	HLA-A02:01	14.2	0.09	0.75	Non-Toxic	Non-Allergen
+KIADYNYKL	HLA-A02:01	26.1	0.18	0.62	Non-Toxic	Non-Allergen
+CYGVSPTKL	HLA-A02:01	9.1	0.06	0.70	Toxic	Non-Allergen
+GVSPTKLND	HLA-A02:01	48.0	0.32	0.65	Non-Toxic	Allergen
+VVVLSFELL	HLA-A02:01	41.0	0.21	0.58	Non-Toxic	Non-Allergen
+WNSNNLDSK	HLA-A01:01	1400.0	4.80	0.40	Non-Toxic	Non-Allergen
+LDSKVGGNY	HLA-A01:01	3800.0	8.90	0.28	Non-Toxic	Non-Allergen
+RLFRKSNLK	HLA-A03:01	195.0	1.25	0.61	Non-Toxic	Non-Allergen
+NATRFASVY	HLA-A24:02	31.0	0.19	0.68	Non-Toxic	Non-Allergen
+FTNVYADSF	HLA-A24:02	52.0	0.38	0.71	Non-Toxic	Non-Allergen
